@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/helper.py" description="product_search_queryset" line="6" />
+    <bookmark url="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/configratorsettings.html" line="22" />
+    <bookmark url="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/configratorsettings.html" line="591" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34969c4e-b9e8-4f28-a312-c9d5fb31d4fb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist_view.js" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist.js" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist.js" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/base1.html" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/base1.html" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/sidebar1.html" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/sidebar1.html" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/picklist_report.html" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/warehouse.html" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/warehouse.html" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/helper.py" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/helper.py" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/models.py" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/models.py" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/urls.py" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/urls.py" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="2522" column="55" lean-forward="true" selection-start-line="2522" selection-start-column="55" selection-end-line="2522" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="618" column="4" lean-forward="false" selection-start-line="618" selection-start-column="4" selection-end-line="618" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales_picklist.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1116">
+              <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload_picklist.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/upload_picklist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="91" column="41" lean-forward="false" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="438" column="9" lean-forward="false" selection-start-line="438" selection-start-column="4" selection-end-line="438" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1458">
+              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PickListReportUs</find>
+      <find>get_search_results</find>
+      <find>PickListReportSearc</find>
+      <find>search_keyword_csv</find>
+      <find>PicklistCsvReport</find>
+      <find>queryset_to_csv</find>
+      <find>series_filter</find>
+      <find>series</find>
+      <find>search_term</find>
+      <find>picklist_csv_queryset</find>
+      <find>search</find>
+      <find>data</find>
+      <find>warehouse_search</find>
+      <find>inputChangedPromise</find>
+      <find>pick_list_json</find>
+      <find>pick_list_id</find>
+      <find>print</find>
+      <find>search_keyword</find>
+      <find>PickListReportSearch</find>
+      <find>warehouse_csv</find>
+      <find>picklist_report</find>
+      <find>https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min.js</find>
+      <find>https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js</find>
+      <find>https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js</find>
+      <find>https://editor.datatables.net/extensions/Editor/js/dataTables.editor.min.js</find>
+      <find>https://cdn.datatables.net/buttons/1.5.6/css/buttons.dataTables.min.csshttps://cdn.datatables.net/buttons/1.5.6/css/buttons.dataTables.min.css</find>
+      <find>https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js</find>
+      <find>doSaveProductFile</find>
+      <find>connection</find>
+      <find>from django.db import connection</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/xpressbuyer_software_kru/static/images</dir>
+      <dir>$PROJECT_DIR$/xpressbuyer_software_kru/static/js</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/xpressbuyer_software_kru" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/xpressbuyer_software_kru" value="krutarth" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/messagedata.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/button_header.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/multifilter.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/user_profile/views.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/user_profile/forms.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/user_profile/admin.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/user_profile/helper.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/adminrestrict/middleware.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/configrator_settings.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/configratorsettings.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/configrator_settings.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/pogenerated.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/new_items_uk.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/test" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/asdf" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/add_new_supplier.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/po_generated.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/po_generated.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/sdf" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/vatinvoice.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/vatform.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/utils.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/invoicepdf.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/downloadlinkpdf.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/images/style.css" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/a.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/invoicepdf.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/addnewsupplier.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/stock/helper.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/pick_list.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/templates.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/django.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sourcing_system.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/home/auth.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/user_profile/models.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/warehouse1.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/picklist_report_us.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/picklist_report.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/base1.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/sidebar1.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/warehouse.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/warehouse1.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/urls.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist_view.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist.js" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/upload_picklist.html" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/models.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/helper.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="software" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="inventory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/static/images" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/static/js" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/templates" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/static/vendor/fencyboox/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/static/images/software" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/static/assets" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/static/images" />
+      <recent name="$PROJECT_DIR$/xpressbuyer_software_kru/static/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.views (1)">
+    <configuration name="auth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/core/linnworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xpressbuyer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/core/linnworks/auth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="processed_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/core/linnworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xpressbuyer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/core/linnworks/processed_order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xpressbuyer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/stock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xpressbuyer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/stock/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.auth" />
+      <item index="1" class="java.lang.String" itemvalue="Python.views" />
+      <item index="2" class="java.lang.String" itemvalue="Python.views (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.processed_order" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.processed_order" />
+        <item index="1" class="java.lang.String" itemvalue="Python.views (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.views" />
+        <item index="3" class="java.lang.String" itemvalue="Python.auth" />
+        <item index="4" class="java.lang.String" itemvalue="Python.views (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34969c4e-b9e8-4f28-a312-c9d5fb31d4fb" name="Default" comment="" />
+      <created>1527231797706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527231797706</updated>
+    </task>
+    <task id="LOCAL-00019" summary="new deisgn">
+      <created>1531143896437</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1531143896437</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new deisgn">
+      <created>1531302993560</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1531302993561</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new deisgn">
+      <created>1531888963612</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1531888963612</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new deisgn">
+      <created>1532008484815</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1532008484815</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new deisgn">
+      <created>1532008677703</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1532008677703</updated>
+    </task>
+    <task id="LOCAL-00024" summary="new deisgn">
+      <created>1532094448037</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1532094448037</updated>
+    </task>
+    <task id="LOCAL-00025" summary="new deisgn">
+      <created>1532326851066</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1532326851066</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new deisgn">
+      <created>1532327709538</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1532327709538</updated>
+    </task>
+    <task id="LOCAL-00027" summary="new deisgn">
+      <created>1532341342894</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1532341342905</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new deisgn">
+      <created>1532495103633</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1532495103633</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new deisgn">
+      <created>1532510880723</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1532510880723</updated>
+    </task>
+    <task id="LOCAL-00030" summary="new deisgn">
+      <created>1532519272447</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1532519272447</updated>
+    </task>
+    <task id="LOCAL-00031" summary="new deisgn">
+      <created>1532520604137</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1532520604137</updated>
+    </task>
+    <task id="LOCAL-00032" summary="new deisgn">
+      <created>1532520984683</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1532520984683</updated>
+    </task>
+    <task id="LOCAL-00033" summary="new deisgn">
+      <created>1532521599577</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1532521599577</updated>
+    </task>
+    <task id="LOCAL-00034" summary="new deisgn">
+      <created>1532523868919</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1532523868919</updated>
+    </task>
+    <task id="LOCAL-00035" summary="new deisgn">
+      <created>1532524189284</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1532524189284</updated>
+    </task>
+    <task id="LOCAL-00036" summary="new deisgn">
+      <created>1532525993221</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1532525993221</updated>
+    </task>
+    <task id="LOCAL-00037" summary="new deisgn">
+      <created>1532527007069</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1532527007069</updated>
+    </task>
+    <task id="LOCAL-00038" summary="new deisgn">
+      <created>1532611974900</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1532611974900</updated>
+    </task>
+    <task id="LOCAL-00039" summary="new deisgn">
+      <created>1532698919784</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1532698919784</updated>
+    </task>
+    <task id="LOCAL-00040" summary="new deisgn">
+      <created>1532773979169</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1532773979169</updated>
+    </task>
+    <task id="LOCAL-00041" summary="new deisgn">
+      <created>1532944275462</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1532944275462</updated>
+    </task>
+    <task id="LOCAL-00042" summary="new deisgn">
+      <created>1533043351804</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1533043351804</updated>
+    </task>
+    <task id="LOCAL-00043" summary="new deisgn">
+      <created>1533130126900</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1533130126900</updated>
+    </task>
+    <task id="LOCAL-00044" summary="new deisgn">
+      <created>1533201265140</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1533201265140</updated>
+    </task>
+    <task id="LOCAL-00045" summary="new deisgn">
+      <created>1533711152790</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1533711152790</updated>
+    </task>
+    <task id="LOCAL-00046" summary="new deisgn">
+      <created>1534772159937</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1534772159937</updated>
+    </task>
+    <task id="LOCAL-00047" summary="20-08-2018">
+      <created>1534773532992</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1534773532992</updated>
+    </task>
+    <task id="LOCAL-00048" summary="20-08-2018">
+      <created>1534944598078</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1534944598078</updated>
+    </task>
+    <task id="LOCAL-00049" summary="12-09-2018">
+      <created>1536728937425</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1536728937425</updated>
+    </task>
+    <task id="LOCAL-00050" summary="12-09-2018">
+      <created>1536833719853</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1536833719853</updated>
+    </task>
+    <task id="LOCAL-00051" summary="12-09-2018">
+      <created>1536844358593</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1536844358593</updated>
+    </task>
+    <task id="LOCAL-00052" summary="12-09-2018">
+      <created>1536931796770</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1536931796772</updated>
+    </task>
+    <task id="LOCAL-00053" summary="12-09-2018">
+      <created>1537007680509</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1537007680510</updated>
+    </task>
+    <task id="LOCAL-00054" summary="12-09-2018">
+      <created>1537276960629</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1537276960629</updated>
+    </task>
+    <task id="LOCAL-00055" summary="12-09-2018">
+      <created>1537361816195</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1537361816197</updated>
+    </task>
+    <task id="LOCAL-00056" summary="19-09-2018">
+      <created>1537446055900</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1537446055901</updated>
+    </task>
+    <task id="LOCAL-00057" summary="19-09-2018">
+      <created>1537450192624</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1537450192624</updated>
+    </task>
+    <task id="LOCAL-00058" summary="19-09-2018">
+      <created>1537536802616</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1537536802617</updated>
+    </task>
+    <task id="LOCAL-00059" summary="19-09-2018">
+      <created>1539607899408</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1539607899409</updated>
+    </task>
+    <task id="LOCAL-00060" summary="19-09-2018">
+      <created>1540632704101</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1540632704105</updated>
+    </task>
+    <task id="LOCAL-00061" summary="12-12-2018">
+      <created>1544591652581</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1544591652581</updated>
+    </task>
+    <task id="LOCAL-00062" summary="newdemo">
+      <created>1548335586864</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1548335586865</updated>
+    </task>
+    <task id="LOCAL-00063" summary="newdemo">
+      <created>1549952247092</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1549952247093</updated>
+    </task>
+    <task id="LOCAL-00064" summary="newdemo">
+      <created>1549952336431</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1549952336431</updated>
+    </task>
+    <task id="LOCAL-00065" summary="newdemo">
+      <created>1549952353572</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1549952353572</updated>
+    </task>
+    <task id="LOCAL-00066" summary="new">
+      <created>1552732236914</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1552732236915</updated>
+    </task>
+    <task id="LOCAL-00067" summary="26-03-2019">
+      <created>1553598857353</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1553598857353</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16744915" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78317153" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19561815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3978979" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78317153" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16744915" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19561815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3978979" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="Change warehouse.html" />
+    <MESSAGE value="add new design" />
+    <MESSAGE value="signup and login" />
+    <MESSAGE value="change signup and login js and html" />
+    <MESSAGE value="container_type changes" />
+    <MESSAGE value="container_type,packing_type,bin_rack changes" />
+    <MESSAGE value="supplier1 changes" />
+    <MESSAGE value="pick list and purchase order changes" />
+    <MESSAGE value="process order and packing list" />
+    <MESSAGE value="process order" />
+    <MESSAGE value="linnworks_stock changes" />
+    <MESSAGE value="changes in design" />
+    <MESSAGE value="new deisgn" />
+    <MESSAGE value="20-08-2018" />
+    <MESSAGE value="12-09-2018" />
+    <MESSAGE value="19-09-2018" />
+    <MESSAGE value="12-12-2018" />
+    <MESSAGE value="newdemo" />
+    <MESSAGE value="new" />
+    <MESSAGE value="26-03-2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="26-03-2019" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="284" height="479" key="Git.Branch.Popup" />
+    <state width="284" height="479" key="Git.Branch.Popup/1366.768" />
+    <state width="284" height="479" key="Git.Branch.Popup@1366.768" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="81" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-730">
+          <caret line="1030" column="8" lean-forward="false" selection-start-line="1030" selection-start-column="8" selection-end-line="1030" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/home/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="88" column="32" lean-forward="true" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/home/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/home/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/registration/login1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="49" column="62" lean-forward="false" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/environ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/middleware_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-712">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/templates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/user_profile/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="147" column="4" lean-forward="false" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/query_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/vatform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/po_generated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/po_generated.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="354" column="78" lean-forward="false" selection-start-line="354" selection-start-column="67" selection-end-line="354" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/stock/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-734">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/linnworks_stock1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/linnworks_stock.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/kombu/utils/scheduling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="75" column="13" lean-forward="false" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="313" column="4" lean-forward="false" selection-start-line="313" selection-start-column="4" selection-end-line="313" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/forms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="74" column="4" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sourcing_system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6624">
+          <caret line="368" column="30" lean-forward="false" selection-start-line="368" selection-start-column="0" selection-end-line="369" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/new_items_uk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3981">
+          <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1309" column="6" lean-forward="false" selection-start-line="1309" selection-start-column="6" selection-end-line="1309" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/ebay_listing_update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/warehouse1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="195" column="33" lean-forward="false" selection-start-line="195" selection-start-column="19" selection-end-line="195" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/picklist_report_us.html" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/silk/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="192" column="8" lean-forward="false" selection-start-line="192" selection-start-column="8" selection-end-line="192" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/django.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="90" column="18" lean-forward="false" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/databases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="859" column="8" lean-forward="false" selection-start-line="859" selection-start-column="8" selection-end-line="859" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/packing_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="313" column="31" lean-forward="false" selection-start-line="313" selection-start-column="21" selection-end-line="313" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/sidebar1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="159" column="56" lean-forward="true" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/warehouse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="206" column="25" lean-forward="false" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/base1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/warehouse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/warehouse1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="132" column="7" lean-forward="false" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist_view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-669">
+          <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/core/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="438" column="9" lean-forward="false" selection-start-line="438" selection-start-column="4" selection-end-line="438" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116">
+          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/upload_picklist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="91" column="41" lean-forward="false" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/views/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="618" column="4" lean-forward="false" selection-start-line="618" selection-start-column="4" selection-end-line="618" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="2522" column="55" lean-forward="true" selection-start-line="2522" selection-start-column="55" selection-end-line="2522" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
