@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34969c4e-b9e8-4f28-a312-c9d5fb31d4fb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py" />
-      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/installed_apps.py" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/installed_apps.py" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru" />
+      <change beforePath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html" afterPath="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,14 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="2577" column="0" lean-forward="true" selection-start-line="2577" selection-start-column="0" selection-end-line="2577" selection-end-column="0" />
+            <state relative-caret-position="-582">
+              <caret line="2577" column="0" lean-forward="false" selection-start-line="2577" selection-start-column="0" selection-end-line="2577" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales_picklist.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="186" column="12" lean-forward="false" selection-start-line="186" selection-start-column="12" selection-end-line="186" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,7 +145,6 @@
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/warehouse1.html" />
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/urls.py" />
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist_view.js" />
-        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html" />
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/static/js/sales_picklist.js" />
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/upload_picklist.html" />
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/models.py" />
@@ -145,6 +153,7 @@
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/settings/databases.py" />
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/manage.py" />
         <option value="$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py" />
+        <option value="$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html" />
       </list>
     </option>
   </component>
@@ -213,6 +222,19 @@
               <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xpressbuyer" type="462c0819:PsiDirectoryNode" />
+              <item name="xpressbuyer_software_kru" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="software" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xpressbuyer" type="b2602c69:ProjectViewProjectNode" />
@@ -380,13 +402,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527231797706</updated>
-    </task>
-    <task id="LOCAL-00020" summary="new deisgn">
-      <created>1531302993560</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1531302993561</updated>
     </task>
     <task id="LOCAL-00021" summary="new deisgn">
       <created>1531888963612</created>
@@ -724,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554187734885</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="26-03-2019">
+      <created>1554290812268</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1554290812269</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView">
@@ -740,7 +762,7 @@
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16744915" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2198748" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1035,6 +1057,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="132" column="7" lean-forward="false" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1049,13 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1217,11 +1233,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/xpressbuyer/app/inventory/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="2577" column="0" lean-forward="true" selection-start-line="2577" selection-start-column="0" selection-end-line="2577" selection-end-column="0" />
+        <state relative-caret-position="-582">
+          <caret line="2577" column="0" lean-forward="false" selection-start-line="2577" selection-start-column="0" selection-end-line="2577" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpressbuyer_software_kru/templates/software/sales_picklist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="186" column="12" lean-forward="false" selection-start-line="186" selection-start-column="12" selection-end-line="186" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
